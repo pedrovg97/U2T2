@@ -1,5 +1,10 @@
-Facebook: A rede do Facebook tem um número moderado de nós (4.039) e conexões (88.234), mas um número extraordinariamente alto de componentes conectados (1.612.010). Isso indica que a maioria dos nós forma pequenas partes isoladas da rede, com um Componente Gigante de tamanho semelhante ao número de nós. O Coeficiente de Aglomeração Médio é relativamente alto (0,6055), sugerindo que os amigos dos usuários tendem a ser amigos entre si.
-
-Twitter: O Twitter possui um grande número de nós (81.306) e conexões (1.768.149), mas também um número muito alto de componentes conectados (13.082.506). O Componente Gigante é menor do que o número total de nós (68.413), o que significa que parte significativa da rede está fragmentada. O Coeficiente de Aglomeração Médio é um pouco menor (0,5653), indicando que os amigos dos usuários no Twitter também tendem a ser amigos entre si, mas a rede é menos densamente conectada que o Facebook.
-
-Google Plus: A rede do Google Plus possui um número significativo de nós (107.614) e conexões (13.673.453). Surpreendentemente, há um número extremamente alto de componentes conectados (1.073.677.742), mas o Componente Gigante é relativamente grande (69.501). Isso sugere uma grande quantidade de fragmentação na rede, mas a maior parte dos nós está interconectada. O Coeficiente de Aglomeração Médio é o mais alto dos três (0,6552), indicando que os amigos dos usuários têm uma tendência maior de serem amigos entre si, e a rede é densamente conectada.
+A rede do Facebook tem um número moderado de nós e conexões, mas um número extraordinariamente alto de componentes conectados. Isso indica que
+a maioria dos nós forma pequenas partes isoladas da rede, com um Componente Gigante de tamanho semelhante ao número de nós. O Coeficiente de
+Aglomeração Médio é relativamente alto, sugerindo que os amigos dos usuários tendem a ser amigos entre si. O Twitter possui um grande número
+de nós e conexões, mas também um número muito alto de componentes conectados. O Componente Gigante é menor do que o número total de nós, o que 
+significa que parte significativa da rede está fragmentada. O Coeficiente de Aglomeração Médio é um pouco menor, indicando que os amigos dos 
+usuários no Twitter também tendem a ser amigos entre si, mas a rede é menos densamente conectada que o Facebook. Já o Google Plus possui um 
+número significativo de nós e conexões. Surpreendentemente, há um número extremamente alto de componentes conectados, mas o Componente Gigante
+é relativamente grande. Isso sugere uma grande quantidade de fragmentação na rede, mas a maior parte dos nós está interconectada. O Coeficiente 
+de Aglomeração Médio é o mais alto dos três, indicando que os amigos dos usuários têm uma tendência maior de serem amigos entre si, e a rede é 
+densamente conectada.
