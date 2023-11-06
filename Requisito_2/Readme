@@ -1,0 +1,7 @@
+No Facebook, identificamos que o grau dos nós é maior em comparação com o grau médio dos vizinhos. Isso sugere que, na rede do Facebook,
+a maioria dos usuários possui um número substancial de conexões diretas com outros usuários. O grau dos nós elevado indica que muitos usuários
+têm uma quantidade significativa de amigos ou conexões na plataforma. No Twitter, notamos que o grau dos nós é bem parecido com o grau médio dos vizinhos. 
+Isso indica que a rede no Twitter tem uma distribuição de conexões mais equitativa, onde a maioria dos usuários possui um número de conexões diretas 
+semelhante em relação à média de conexões dos outros usuários na plataforma. No entanto, ao analisar o Google Plus, observamos que o grau dos nós é 
+ainda maior, e os dados gerais são maiores em comparação com o Facebook e o Twitter. Isso indica que o Google Plus possui uma característica única, 
+onde a maioria dos usuários possui um número considerável de conexões diretas, e a rede é substancialmente maior em termos de tamanho e conexões.
