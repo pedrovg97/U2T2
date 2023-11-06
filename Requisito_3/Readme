@@ -8,3 +8,10 @@ número significativo de nós e conexões. Surpreendentemente, há um número ex
 é relativamente grande. Isso sugere uma grande quantidade de fragmentação na rede, mas a maior parte dos nós está interconectada. O Coeficiente 
 de Aglomeração Médio é o mais alto dos três, indicando que os amigos dos usuários têm uma tendência maior de serem amigos entre si, e a rede é 
 densamente conectada.
+
+|     Rede     | Qtd Vértices | Qtd Arestas | Qtd Comp Conectados | Tamanho do Comp | Coeficiente de Clustering Médio |
+|:------------:|:------------:|:-----------:|:-------------------:|:--------------:|:-----------------------------:|
+|   Facebook   |    4.039     |    88.234   |      1.612.010      |     4.039      |            0,6055             |
+|    Twitter   |    81.306    |  1.768.149  |     13.082.506      |    68.413      |            0,5653             |
+|   Google Plus|   107.614    | 13.673.453  |   1.073.677.742     |    69.501      |            0,6552             |
+
